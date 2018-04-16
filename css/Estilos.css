@@ -67,21 +67,19 @@ aside{
 	margin-top: 		100px;
 	margin-left: 		0px;
 	margin-right: 		50px;
-	height: 			500px;
+	
+	height: 			auto;
 
 }
 
 
 footer{
 
-	width: 				1250px;
+	width: 				1260px;	
 	background: 		#F0B429;
-	margin-top: 		900px;
+	margin-top: 		1200px;
 	height: 			auto;
 	text-align: 		left;
-
-
-
 }
 
 
@@ -118,6 +116,12 @@ h3{
 h5{
 	background: 		#F0B429;
 	text-align: 		center;
+
+}
+
+h2{
+	background: 		#F0B429;
+	text-align: 		left;
 
 }
 
